@@ -1,0 +1,34 @@
+.correct-ratio {
+  object-fit: cover;
+}
+
+img {
+  height: 400px;
+  width: 400px;
+  margin-top: 10px;
+  border-radius: 5%;
+}
+
+.container{
+  justify-content: space-around;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  flex-direction: row;
+  border-radius: 40px;
+
+}
+
+
+.text{
+  font-family: 'Dancing Script', cursive;
+  text-align: center;
+  font-size: 40px;
+  color: pink
+
+}
+.fullpage{
+  border: 10px solid pink;
+  background-color: #FFFAFA;
+
+}
